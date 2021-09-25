@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... brains.
 - 🌱 I’m currently learning ... brains.
 - 💞️ I’m looking to collaborate on ... brains.
-- 📫 How to reach me ... use your brains ... and jjbrainless@protonmail.com.
+- 📫 How to reach me ... use your brains ... and jjbrainless at proton mail.
 
 <!---
 McBrainless/McBrainless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
